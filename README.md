@@ -4,4 +4,5 @@
 
 - Flour
 - Eggs
-- Chocolate
+- Vanilla
+- Funfetti cake mix
