@@ -1,5 +1,5 @@
 ---
-title: "practiceFile"
+title: "Practice File"
 author: "Lily"
 date: "2/12/2020"
 output: html_document
