@@ -5,3 +5,4 @@
 - Flour
 - Eggs
 - Chocolate
+- Sprinkles
